@@ -1,0 +1,11 @@
+
+.heading {
+    padding-top: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    font-size: 2rem;
+    font-weight: bold;
+    font-family: sans-serif;
+}
